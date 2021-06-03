@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Zkouška", "Zkouška\Zkouška.pyproj", "{75775E67-0CA7-4ACE-B4D2-036D9C937E87}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "menu", "menu\menu.pyproj", "{75775E67-0CA7-4ACE-B4D2-036D9C937E87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
